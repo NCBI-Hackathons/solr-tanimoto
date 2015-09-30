@@ -1,0 +1,5 @@
+language: java
+jdk: oraclejdk8
+before_install:  
+  - "export JAVA_OPTS=-Xmx2G" 
+  - "export MAVEN_OPTS=-Xmx2048m"
