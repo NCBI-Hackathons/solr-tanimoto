@@ -1,4 +1,6 @@
-# Tanimoto Solr Plugin
+# Tanimoto Solr Plugin 
+
+[![Build Status](https://travis-ci.org/NCBI-Hackathons/solr-tanimoto.svg)](https://travis-ci.org/NCBI-Hackathons/solr-tanimoto)
 
 
 ##HOWTOs: 
